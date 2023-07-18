@@ -1,0 +1,144 @@
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\R52\M6\Class 05\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.exe
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.exe
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductAdd.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Products.ProductEdit.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Form1.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Orders.OrderView.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Orders.OrderAdd.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Orders.OrderItemAdd.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.Shared.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\stdole.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.csproj.CopyComplete
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm1.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm2.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm3.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm4.resources
+D:\R52\M5\Projects\OrderManagement_Solution\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm5.resources
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\OrderManagement.exe
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.Shared.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\R52\M5\Projects\1270726\OrderManagement\bin\Debug\stdole.dll
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Form1.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Orders.OrderAdd.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Orders.OrderItemAdd.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Orders.OrderView.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Products.ProductAdd.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Products.ProductEdit.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm1.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm2.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm3.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm4.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm5.resources
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.csproj.CopyComplete
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.exe
+D:\R52\M5\Projects\1270726\OrderManagement\obj\Debug\OrderManagement.pdb
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\OrderManagement.exe.config
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\OrderManagement.exe
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\OrderManagement.pdb
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.Shared.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\bin\Debug\stdole.dll
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.csproj.AssemblyReference.cache
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.csproj.SuggestedBindingRedirects.cache
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerAdd.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerEdit.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Customers.CustomerView.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Form1.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.MainForm.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Orders.OrderAdd.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Orders.OrderItemAdd.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Orders.OrderView.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Products.ProductAdd.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Products.ProductEdit.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Products.ProductView.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Properties.Resources.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm1.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm2.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm3.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm4.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.Reports.ReportForm5.resources
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.csproj.GenerateResource.cache
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.csproj.CoreCompileInputs.cache
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.csproj.CopyComplete
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.exe
+D:\Jahangir Alam(1273225)\Module-06\01\1273225\1273225\OrderManagement\obj\Debug\OrderManagement.pdb
